@@ -1,0 +1,15 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "/Users/tekrajchapai/Desktop/esp-idf/tools/tools/xtensa-esp-elf-gdb/11.2_20220823/xtensa-esp-elf-gdb/bin:/Users/tekrajchapai/Desktop/esp-idf/tools/tools/riscv32-esp-elf-gdb/11.2_20220823/riscv32-esp-elf-gdb/bin:/Users/tekrajchapai/Desktop/esp-idf/tools/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/bin:/Users/tekrajchapai/Desktop/esp-idf/tools/tools/xtensa-esp32s2-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s2-elf/bin:/Users/tekrajchapai/Desktop/esp-idf/tools/tools/xtensa-esp32s3-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32s3-elf/bin:/Users/tekrajchapai/Desktop/esp-idf/tools/tools/riscv32-esp-elf/esp-2021r2-patch5-8.4.0/riscv32-esp-elf/bin:/Users/tekrajchapai/Desktop/esp-idf/tools/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/Users/tekrajchapai/Desktop/esp-idf/tools/tools/openocd-esp32/v0.12.0-esp32-20230419/openocd-esp32/bin",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/Users/tekrajchapai/Desktop/esp-idf/tools/tools/openocd-esp32/v0.12.0-esp32-20230419/openocd-esp32/share/openocd/scripts"
+    },
+    "idf.espIdfPath": "/Users/tekrajchapai/esp/v4.4.6/esp-idf",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.pythonBinPath": "/Users/tekrajchapai/Desktop/esp-idf/tools/python_env/idf4.4_py3.12_env/bin/python",
+    "idf.toolsPath": "/Users/tekrajchapai/Desktop/esp-idf/tools"
+}
